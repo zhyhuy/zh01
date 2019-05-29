@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhyhuy.github.io/</id>
-    <title>BitFm</title>
-    <updated>2019-05-29T00:56:55.121Z</updated>
+    <title>BitBook</title>
+    <updated>2019-05-29T00:58:40.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhyhuy.github.io/"/>
     <link rel="self" href="https://zhyhuy.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://zhyhuy.github.io//images/avatar.png</logo>
     <icon>https://zhyhuy.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, BitFm</rights>
+    <rights>All rights reserved 2019, BitBook</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhyhuy.github.io//post/hello-gridea</id>
