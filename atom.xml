@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhyhuy.github.io/zh01/</id>
     <title>BitBook</title>
-    <updated>2019-05-29T13:04:21.092Z</updated>
+    <updated>2019-08-05T16:20:14.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhyhuy.github.io/zh01/"/>
     <link rel="self" href="https://zhyhuy.github.io/zh01//atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://zhyhuy.github.io/zh01//images/avatar.png</logo>
     <icon>https://zhyhuy.github.io/zh01//favicon.ico</icon>
     <rights>All rights reserved 2019, BitBook</rights>
+    <entry>
+        <title type="html"><![CDATA[HEXO 删除文章]]></title>
+        <id>https://zhyhuy.github.io/zh01//post/hexo-shan-chu-wen-zhang</id>
+        <link href="https://zhyhuy.github.io/zh01//post/hexo-shan-chu-wen-zhang">
+        </link>
+        <updated>2019-08-05T16:18:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>1、Delete the post under source/post folder
+2、Run hexo clean to delete the database (db.json) and assets folder
+3、Run hexo generateto generate the new blog without your deleted post
+4、Run hexo deploy to deploy your blog</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1、Delete the post under source/post folder
+2、Run hexo clean to delete the database (db.json) and assets folder
+3、Run hexo generateto generate the new blog without your deleted post
+4、Run hexo deploy to deploy your blog</p>
+<!-- more -->
+<p>Fr: https://stackoverflow.com/questions/27894210/how-do-i-delete-a-post-in-hexo*</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TEST PAGE]]></title>
         <id>https://zhyhuy.github.io/zh01//post/test-page</id>
