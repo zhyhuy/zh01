@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhyhuy.github.io/zh01/</id>
     <title>BitBook</title>
-    <updated>2019-08-05T16:35:22.242Z</updated>
+    <updated>2019-08-05T16:37:58.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhyhuy.github.io/zh01/"/>
     <link rel="self" href="https://zhyhuy.github.io/zh01//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Mark&apos;s another Trace of Life</subtitle>
     <logo>https://zhyhuy.github.io/zh01//images/avatar.png</logo>
     <icon>https://zhyhuy.github.io/zh01//favicon.ico</icon>
     <rights>All rights reserved 2019, BitBook</rights>
@@ -25,8 +25,6 @@
 2、Run hexo clean to delete the database (db.json) and assets folder<br>
 3、Run hexo generateto generate the new blog without your deleted post<br>
 4、Run hexo deploy to deploy your blog</p>
-<!-- more -->
-<p>Fr: https://stackoverflow.com/questions/27894210/how-do-i-delete-a-post-in-hexo</p>
 ]]></content>
     </entry>
     <entry>
@@ -35,8 +33,6 @@
         <link href="https://zhyhuy.github.io/zh01//post/test-page">
         </link>
         <updated>2019-05-29T01:27:02.000Z</updated>
-        <content type="html"><![CDATA[<p>THIS IS A TEST PAGE FOR &quot;Gitalk&quot; , I WILL SEE IF THIS WEB CLIENT CAN WORK WELL ABOUT THE ISSUE</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello BitBook]]></title>
@@ -44,7 +40,5 @@
         <link href="https://zhyhuy.github.io/zh01//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="hello-bitbook">👏  <a href="https://zhyhuy.github.io/zh01/">hello bitbook</a></h1>
-]]></content>
     </entry>
 </feed>
